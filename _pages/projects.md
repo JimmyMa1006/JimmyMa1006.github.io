@@ -17,8 +17,8 @@ You can find the [Final Report](https://drive.google.com/file/d/1g8M4aukgWw_k6JT
 
 In Summer 2023, I conducted a research project with Professor Sohee Kang focusing on the TB diagnostic performance of Giant African Rats. In this project, we built a online application based on Shiny and various R packages capable of filtering, visualizing, and tracking the performance of teams of rats. You can access the [R Shiny App](https://1rsgc6-junjie-ma.shinyapps.io/Rats_Analysis/) here, but a password is needed.
 
-![Shiny1](Shiny1.jpg)
-![Shiny2](Shiny2.jpg)
+![Shiny1](Shiny1.png)
+![Shiny2](Shiny2.png)
 
 The most significant finding we achieved was the high sensitivity demonstrated by a group of rats in detecting TB, which often surpassed traditional methods. We finalized the optimal team by conducting a Bayesian analysis under the hierarchical model to evaluate how different combinations of rats perform. This is a short [presentation ](https://drive.google.com/file/d/1rLnwr87u92Mz6TfxCd0RHPCZQJYJOCek/view?usp=drive_link) that includes a description of the Bayesian model and posterior analysis.
 
