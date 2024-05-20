@@ -13,6 +13,8 @@ We mainly followed the book "Green, Brown, and Probability & Brownian Motion on 
 
 You can find the [Final Report](https://drive.google.com/file/d/1g8M4aukgWw_k6JTmAyS6Y0rr6ilOPLHH/view?usp=sharing) here.
 
-## Notes
-To be composed and uploaded.
+## Tuberculosis(TB) detection via Giant African Rats
+
+In Summer 2023, I conducted a research project with Professor Sohee Kang focusing on the TB diagnostic performance of Giant African Rats. In this project, we built a online application based on Shiny and various R packages capable of filtering, visualizing, and tracking the performance of teams of rats. You can access the [App](https://1rsgc6-junjie-ma.shinyapps.io/Rats_Analysis/) here, but a password is needed.
+
 
