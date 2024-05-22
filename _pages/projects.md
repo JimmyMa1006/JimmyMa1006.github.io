@@ -21,6 +21,8 @@ In the Summer of 2023, I conducted a research project with Professor [Sohee Kang
 
 The most significant finding we achieved was the high sensitivity demonstrated by a group of rats in detecting TB, which often surpassed traditional methods. We finalized the optimal team by conducting a Bayesian analysis under the hierarchical model to evaluate how different combinations of rats perform. This is a short [presentation ](https://drive.google.com/file/d/1rLnwr87u92Mz6TfxCd0RHPCZQJYJOCek/view?usp=drive_link) that includes a description of the Bayesian model and posterior analysis.
 
+## Risk Factors In Survival Of Patients With Malignant Melanoma
 
+In the summer of 2023, we did a course project analyzing the survival time of malignant melanoma patients. The project was presented at the departmental research symposium, and you can find the [poster](https://drive.google.com/drive/search?q=poster) here.
 
 
