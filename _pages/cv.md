@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* MSc in Statistics, University of Toronto, Nov. 2025 (expected)
+* MSc. in Statistics, University of Toronto, Nov. 2025 (expected)
 * HBSc. in Statistics(quantitative finance) with high distinction, University of Toronto Scarborough, June 2024
   
 Skills
