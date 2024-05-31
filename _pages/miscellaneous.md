@@ -9,4 +9,4 @@ I attended [Hangzhou Foreign Languages School](http://www.chinahw.net/web/index.
 
 ![images/HighSchool.png](https://github.com/JimmyMa1006/JimmyMa1006.github.io/blob/1f715c22d9cff999232bea9855eca2f2583214d4/images/HighSchool.png?raw=true)
 
-<img src="images/HighSchool.png" alt="drawing" width="200"/>
+<img src="https://github.com/JimmyMa1006/JimmyMa1006.github.io/blob/1f715c22d9cff999232bea9855eca2f2583214d4/images/HighSchool.png?raw=true" alt="drawing" width="200"/>
