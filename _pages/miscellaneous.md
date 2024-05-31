@@ -20,3 +20,4 @@ I like travelling and taking photos, but just for fun.
 
 ## Hometown
 
+<img src="https://github.com/JimmyMa1006/JimmyMa1006.github.io/blob/968c307fdaddffeb4860bf704f915d0a24a028e2/images/HZ1.png?raw=true" alt="Banff1" width="450"/> <img src="https://github.com/JimmyMa1006/JimmyMa1006.github.io/blob/968c307fdaddffeb4860bf704f915d0a24a028e2/images/HZ2.png?raw=true" alt="TRT2" width="450"/>
