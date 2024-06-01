@@ -24,6 +24,6 @@ I like travelling and taking photos, but just for fun.
 <img src="https://github.com/JimmyMa1006/JimmyMa1006.github.io/blob/29780eaa307d62959ea12015737c5609982b8796/images/Banff1.png?raw=true" alt="Banff1" width="450"/> <img src="https://github.com/JimmyMa1006/JimmyMa1006.github.io/blob/29780eaa307d62959ea12015737c5609982b8796/images/Fall1.png?raw=true" alt="TRT2" width="450"/>
 
 ## Hometown
-My beautiful hometown, Hangzhou. An amazing video can be found [here](https://www.youtube.com/watch?v=px-LBxTqVRA).
+My beautiful hometown, Hangzhou. An amazing video can be found [here](https://www.youtube.com/watch?v=px-LBxTqVRA). It is not as large as Shanghai, New York City, Hongkong, but it is a fantastic place to live and I really had lots of wonderful memories there.
 
 <img src="https://github.com/JimmyMa1006/JimmyMa1006.github.io/blob/968c307fdaddffeb4860bf704f915d0a24a028e2/images/HZ1.png?raw=true" alt="Banff1" width="450"/> <img src="https://github.com/JimmyMa1006/JimmyMa1006.github.io/blob/968c307fdaddffeb4860bf704f915d0a24a028e2/images/HZ2.png?raw=true" alt="TRT2" width="450"/>
