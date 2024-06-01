@@ -11,6 +11,11 @@ I attended [Hangzhou Foreign Languages School](http://www.chinahw.net/html_en/te
 
 <img src="https://github.com/JimmyMa1006/JimmyMa1006.github.io/blob/1f715c22d9cff999232bea9855eca2f2583214d4/images/HighSchool.png?raw=true" alt="HighSchool" width="450"/> <img src="https://github.com/JimmyMa1006/JimmyMa1006.github.io/blob/3b560326bc1d97760191bcbf819f3a708c7ff953/images/ClassPhoto.png?raw=true" alt="HighSchool2" width="450"/>
 
+<img src="https://github.com/JimmyMa1006/JimmyMa1006.github.io/blob/bb8bc94645d520a9d3e869ce56f5be7f2f349158/images/Class2.jpg?raw=true" alt="HighSchool" width="450"/> <img src="https://github.com/JimmyMa1006/JimmyMa1006.github.io/blob/bb8bc94645d520a9d3e869ce56f5be7f2f349158/images/Class3.png?raw=true" alt="HighSchool2" width="450"/>
+
+
+
+
 ## Canada
 I like travelling and taking photos, but just for fun.
 
