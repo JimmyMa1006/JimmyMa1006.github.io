@@ -25,4 +25,6 @@ The most significant finding we achieved was the high sensitivity demonstrated b
 
 In the summer of 2023, we undertook a course project analyzing the survival time of malignant melanoma patients. Specifically, we applied various survival models, conducted model selection, and performed the corresponding inference. Our project was presented at the departmental research symposium. You can find the [poster](https://drive.google.com/file/d/1loJy33I2JkznKMyrwYrDsPd_f8Z04SjP/view?usp=drive_link) here.
 
+[CV](assets/MAT1510_FinalProject.pdf)
+
 
