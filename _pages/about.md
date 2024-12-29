@@ -12,3 +12,5 @@ Hi there! My name is Jimmy (Junjie) Ma, and I am an incoming master’s student 
 During my undergraduate studies at UTSc, I spent most of my time studying statistics and probability and their various applications. I also worked on [projects](https://jimmyma1006.github.io/projects/) involving the statistical analysis and visualization of clinical data. My goal is to utilize statistical tools to better understand the uncertainties in real life. 
 
 You can find my [CV](assets/Junjie_CV.pdf) here. I consider my life as a sub-martingale.
+
+[SVDLORA](assets/MAT1510_FinalProject.pdf)
